@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 11",
+      "system": "iOS",
+      "price": 6200,
+      "image": "./public/iphone-14.png"
+    },
+    {
+      "id": 2,
+      "name": "Samsung S21",
+      "system": "Android",
+      "price": 6200,
+      "image": "./public/samsung-s21.png"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Air 13",
+      "system": "MacOS",
+      "price": 6200,
+      "image": "./public/macbook-air-13.png"
+    },
+    {
+      "id": 4,
+      "name": "Desktop Acer Orion I5 RTX 3060",
+      "system": "Windows",
+      "price": 6200,
+      "image": "./public/acer-orion-desktop.png"
+    },
+    {
+      "id": 5,
+      "name": "Ideapad 1",
+      "system": "Linux",
+      "price": 6200,
+      "image": "./public/ideapad-1.png"
+    },
+    {
+      "id": 6,
+      "name": "Raspberry Pi 3",
+      "system": "Pi OS",
+      "price": 6200,
+      "image": "./public/raspberry-pi-3.png"
+    }
+  ]
+}
